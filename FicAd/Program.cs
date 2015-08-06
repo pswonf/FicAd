@@ -12,7 +12,7 @@ namespace FicAd
         /// </summary>
         /// //adasdgsdgasdg
         /// //dsvasdasd
-        /// 
+        /// xasdgasdgasdgsdG
         [STAThread]
         static void Main()
         {
